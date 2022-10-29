@@ -1,11 +1,21 @@
 ![twitter banner](https://user-images.githubusercontent.com/106529748/198833378-85fdcb90-96f2-4768-aa11-6905850550d3.png)
 
 
-- 👋 Hi, I’m @Radiosnack
+
+<!--- 👋 Hi, I’m @Radiosnack
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...--->
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Radiosnack&theme=radical)   
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Radiosnack&theme=radical)](https://git.io/streak-stats)
+
+
 
 <!---
 Radiosnack/Radiosnack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
