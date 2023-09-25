@@ -7,7 +7,6 @@
 I am a college student, enthusiastic about lot of things. That includes 
 <img align="right" width="150" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 -  :sparkles: Open source
--  :sparkles: Web Dev  
 -  :sparkles: Cyber Security 
                                      
    
